@@ -1,0 +1,4 @@
+ssh remote_user_name@IP_address
+hostname
+service service_name start/stop/restart
+sudo get-apt install package_name
